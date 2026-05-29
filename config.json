@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartcncrypt",
+        "uuid": 44974952,
+        "checksum": "k6sweh"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
